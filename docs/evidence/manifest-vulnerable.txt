@@ -1,0 +1,4 @@
+patch-semaphore-demo 4.0.0
+dependencies:
+  quartz-lib: 1.2.0
+  route-codec: 3.8.1

@@ -1,0 +1,2 @@
+PATCH SEMAPHORE RELEASE POLICY
+Any locked dependency covered by a HIGH or CRITICAL advisory must enter quarantine. Clearance requires a patched manifest, a remediation report, and designated reviewer approval.

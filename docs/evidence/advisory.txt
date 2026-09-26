@@ -1,0 +1,2 @@
+ADVISORY PS-77
+quartz-lib versions below 1.3.0 are affected by an unsafe archive path vulnerability. Severity: HIGH. Fixed version: 1.3.0.

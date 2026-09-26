@@ -1,0 +1,2 @@
+REMEDIATION PS-77
+The release lock was rebuilt with quartz-lib 1.3.2. The affected 1.2.0 package is absent from the resolved dependency graph.
