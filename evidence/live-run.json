@@ -1,0 +1,14 @@
+{
+  "releaseId": "PS-LIVE-1790461068",
+  "finalState": "CLEARED",
+  "severity": "HIGH",
+  "component": "quartz-lib",
+  "patchVersion": "1.3.2",
+  "transactions": {
+    "register": "0x4987037bc59af2f350081babff49c7862b7fc984daa13bd47e59f8bf35903122",
+    "scan": "0x5069182e31597baadc0b6f6e918641ecf3747161d68ebd341934aed9fcdbdf9f",
+    "patch": "0xbb72d2a4bf62a8cbd7bfdf422b316546af1a69d7603344f3aaaa2c104f7c308c",
+    "approve": "0x933ba5a1de18ec952a092ef67a1ac0ab7de2fe017effc73abb4e0b3970f696c8"
+  },
+  "verification": "Every transaction finalized with MAJORITY_AGREE and leader SUCCESS."
+}

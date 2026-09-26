@@ -32,4 +32,11 @@ python -m pytest -q tests/test_surface.py -p no:cacheprovider
 gltest tests/direct -v
 ```
 
-StudioNet deployment coordinates are recorded in `deployment.json` after the reviewed source is deployed and exercised.
+## StudioNet coordinates
+
+- Contract: `0x38FF51c53b0063513297c355c84Be228E30FfB8f`
+- Deployment transaction: `0xc397d86d387629ad6883cebd7ed96eec398a729aecb4346695416b71f72c0383`
+- Verified release: `PS-LIVE-1790461068` (`CLEARED` after four finalized transactions)
+- Public signal cabin: https://samiinw-patch-semaphore.pages.dev/
+
+The deployed source is the contract at commit `84e3f3644ca1c46750a8bf76f994bf64dafc8fe1`.
